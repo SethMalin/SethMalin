@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SethMalin
 - 👀 I love programming, specifically videogame design
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with a team
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to enter the world of game development
 - 📫 How to reach me: sethjarrydmalin@gmail.com
 
 <!---
